@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="src\Cache\" />
+    <Folder Include="src\DataCompression\" />
+    <Folder Include="src\FeatureToggle\" />
+    <Folder Include="src\Internationalization\" />
+    <Folder Include="src\Log\" />
+    <Folder Include="src\Sort\" />
+    <Folder Include="tests\" />
+  </ItemGroup>
+
 </Project>
